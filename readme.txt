@@ -7,3 +7,4 @@ His blog is at http://www.catonmat.net  --  good coders code, great reuse.
 
 The code is licensed under MIT license.
 just tst commit.
+using ssh instead of https, no prompt to input username and password!
